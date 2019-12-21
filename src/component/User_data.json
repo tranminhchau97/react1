@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Trần Đức Lương",
+        "phone": "0123456789",
+        "authority": "1"
+    },
+    {
+        "id": "2",
+        "name": "Đào Hiếu Hạnh",
+        "phone": "0123456789",
+        "authority": "1"
+    },
+    {
+        "id": "3",
+        "name": "Hồ Thái Quân",
+        "phone": "0123456789",
+        "authority": "2"
+    },
+    {
+        "id": "4",
+        "name": "Lê Thị Yến Nhi",
+        "phone": "0123456789",
+        "authority": "3"
+    },
+    {
+        "id": "5",
+        "name": "Trần Đức",
+        "phone": "0123456789",
+        "authority": "2"
+    },
+    {
+        "id": "6",
+        "name": "Phan Thanh Nam",
+        "phone": "0123456789",
+        "authority": "2"
+    }
+]
